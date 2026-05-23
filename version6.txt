@@ -1,4 +1,4 @@
 6.0.27ad
 Fix giao diện theme đồng bộ hơn
-Thêm cập nhật phần mềm EXE 1 file
+Thêm cập nhật phần mềm 
 Giữ nguyên presets, profiles, config, logs khi cập nhật
