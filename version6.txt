@@ -1,4 +1,4 @@
-6.0.27ad
+6.0.27ac20
 Fix giao diện theme đồng bộ hơn
 Nâng Cấp tính Năng Cho Bản Free
 Giữ nguyên presets, profiles, config, logs khi cập nhật
