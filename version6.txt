@@ -1,4 +1,4 @@
-6.0.28ad02
+6.0.28ad04
 Nâng Cấp setup_wizard bản mới
 Nâng Cấp tính Năng Cho Bản Free
 Nâng cấp presets, tạo thêm một số bản mẫu
