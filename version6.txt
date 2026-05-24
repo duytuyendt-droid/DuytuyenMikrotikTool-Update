@@ -1,4 +1,5 @@
-6.0.27ac20
-Fix giao diện theme đồng bộ hơn
+6.0.28
+Nâng Cấp setup_wizard bản mới
 Nâng Cấp tính Năng Cho Bản Free
-Giữ nguyên presets, profiles, config, logs khi cập nhật
+Nâng cấp presets, tạo thêm một số bản mẫu
+nâng cấp Bật giao diện Pro cho Hotspot nền / Landing Page đẹp
