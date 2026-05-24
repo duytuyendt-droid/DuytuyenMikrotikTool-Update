@@ -2,4 +2,4 @@
 Nâng Cấp setup_wizard bản mới
 Nâng Cấp tính Năng Cho Bản Free
 Nâng cấp presets, tạo thêm một số bản mẫu
-nâng cấp Bật giao diện Pro cho Hotspot nền / Landing Page đẹp
+Nâng cấp Bật giao diện Pro cho Hotspot nền / Landing Page đẹp
